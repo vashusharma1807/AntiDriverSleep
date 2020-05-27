@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "90331693706",
+    "firebase_url": "https://antidriversleep.firebaseio.com",
+    "project_id": "antidriversleep",
+    "storage_bucket": "antidriversleep.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90331693706:android:ea2e4722ca7d260cba6373",
+        "android_client_info": {
+          "package_name": "com.example.antidriversleep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90331693706-dmm0kd62ihrcrgr2q5bomnus2n12kas8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2I3Z1upeq-PLcP2bDIX3PWY5SJcf_uOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90331693706-dmm0kd62ihrcrgr2q5bomnus2n12kas8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
